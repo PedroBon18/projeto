@@ -1,33 +1,38 @@
-# Aprendendo HTML com Shitpost™ 🎌💻
+ Shitpost em HTML: Shikanoko Nokonoko Koshitantan 🦌🎶🧟
 
-Este é o **meu primeiro projeto usando HTML**, feito com o objetivo de aprender a estruturar páginas e praticar o uso de **Git e GitHub**.
+Este é meu **segundo projeto em HTML**, feito pra aprender a estrutura de páginas web e praticar o uso de Git e GitHub — com um tempero generoso de caos estético.
 
-O conteúdo? Bom... é um legítimo **shitpost visual**, com repetições em hiragana, `<br>`s frenéticos e um GIF que diz tudo sem dizer nada.
+A página repete o refrão viciante da música _"Shikanoko Nokonoko Koshitantan"_, do anime de mesmo nome, que é praticamente um shitpost animado. A cereja no bolo? Um **GIF de Miside**, um jogo indie com uma atmosfera igualmente estranha e perturbadora. Perfeito.
 
-## 🎯 O que eu aprendi
+## 🤓 O que eu aprendi
 
-- Criar a estrutura básica de um documento HTML (`<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`)
-- Exibir textos e imagens com `<br>` e `<img>`
-- Entender a função do atributo `alt` em imagens
-- Trabalhar com arquivos locais no navegador
-- Usar Git para versionar e subir projetos no GitHub
+- Como montar a estrutura de uma página HTML do zero
+- Exibir textos com `<br>` e inserir imagens com `<img>`
+- Usar atributos `alt` e `src`
+- Rodar HTML no navegador local
+- Versionar e publicar código com Git e GitHub
 
-## 📦 Tecnologias
+## 💻 Tecnologias
 
-- HTML puro (sem CSS, sem JavaScript, só na fé)
-- Um GIF do Reddit
-- Hiragana (しかのこのこのここしたんたん)
+- HTML puro (sem CSS ou JavaScript)
+- Um GIF do jogo *Miside*
+- Hiragana vindo direto da música-tema de um anime nonsense
 
-## 👁️‍🗨️ Como visualizar
+## 🔥 Como visualizar
 
 1. Clone ou baixe o repositório
-2. Abra o arquivo `index.html` com seu navegador favorito
-3. Absorva a arte. Não questione.
+2. Abra o `index.html` em qualquer navegador
+3. Deixe o caos tomar conta
 
-## 🧪 Preview
+## 🎧 Referências
 
-![Preview do site](https://i.redd.it/9u41htj8a9be1.gif)
+- 🎵 [Shikanoko Nokonoko Koshitantan](https://www.youtube.com/watch?v=RSXcXn0zhjY) — música tema do anime
+- 🎮 *Miside* — jogo indie de terror experimental, de onde veio o GIF
+
+## 🧠 Por quê?
+
+Porque todo aprendizado precisa de um pouco de absurdo pra grudar na memória. E esse projeto é exatamente isso: caótico, inútil e altamente educativo.
 
 ---
 
-Feito por [PedroBon18](https://github.com/PedroBon18) enquanto aprendia HTML e se divertia no processo. 🚀
+Feito por [PedroBon18](https://github.com/PedroBon18) com `<br>`, cervos e traumas visuais no coração.
